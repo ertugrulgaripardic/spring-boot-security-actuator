@@ -1,1 +1,1 @@
-Spring Boot Security Actuator Demo
+Spring Boot Security Actuator
