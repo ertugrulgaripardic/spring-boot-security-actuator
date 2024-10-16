@@ -1,5 +1,4 @@
 # Spring Boot Security Actuator
-
 This project demonstrates how to integrate Spring Boot's Actuator with Spring Security to monitor and manage application metrics securely.
 
 ## Features
