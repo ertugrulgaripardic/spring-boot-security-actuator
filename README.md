@@ -9,7 +9,6 @@ This project demonstrates how to integrate Spring Boot's Actuator with Spring Se
 - Role-based access control to protect Actuator endpoints.
 
 ## How to Run
-
 1. Clone the repository:
    ```bash
    git clone https://github.com/ertugrulgaripardic/spring-boot-security-actuator.git
