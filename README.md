@@ -1,4 +1,4 @@
-Spring Boot Security Actuator
+# Spring Boot Security Actuator
 
 This project demonstrates how to seamlessly integrate Spring Boot Actuator with Spring Security to monitor and manage critical application metrics and system health securely. By combining Actuator's monitoring capabilities with Spring Security's robust access control mechanisms, sensitive endpoints are safeguarded, ensuring only authorized users can access system insights.
 
