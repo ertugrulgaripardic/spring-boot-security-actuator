@@ -20,7 +20,7 @@ Flexible Configuration: Configure user roles and permissions dynamically via app
 
 Ease of Integration: Maven-based project structure ensures quick setup and dependency management.
 
-Prerequisites
+# Prerequisites
 
 To run and test this project successfully, ensure the following dependencies are installed:
 
