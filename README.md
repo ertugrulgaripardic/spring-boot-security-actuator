@@ -22,7 +22,7 @@ Ease of Integration: Maven-based project structure ensures quick setup and depen
 
 # Prerequisites
 
-To run and test this project successfully, ensure the following dependencies are installed:
+To run and test this project successfully, ensure the following dependencies are installed
 
 Java 17+
 
