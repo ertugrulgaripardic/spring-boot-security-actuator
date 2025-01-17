@@ -12,7 +12,7 @@ Role-Based Access Control: Grants fine-grained access based on user roles (e.g.,
 
 Custom Endpoint Protection: Enables security customization for specific Actuator endpoints as needed.
 
-Health Monitoring: Offers real-time application health checks through /actuator/health.
+Health Monitoring: Offers real-time application health checks through /actuator/health
 
 Metrics Tracking: Provides insights into JVM memory, garbage collection, and other performance-related data.
 
