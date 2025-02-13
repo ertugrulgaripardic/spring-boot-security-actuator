@@ -4,7 +4,7 @@ This project demonstrates how to seamlessly integrate Spring Boot Actuator with 
 
 ## Features
 
-Spring Boot Actuator: Provides endpoints for monitoring application health, system metrics, and runtime environment 
+Spring Boot Actuator: Provides endpoints for monitoring application health, system metrics, and runtime environment details.
 Spring Security Integration: Secures sensitive Actuator endpoints to prevent unauthorized access
 
 Role-Based Access Control: Grants fine-grained access based on user roles (e.g., ADMIN, USER).
