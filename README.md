@@ -7,7 +7,7 @@ This project demonstrates how to seamlessly integrate Spring Boot Actuator with 
 Spring Boot Actuator: Provides endpoints for monitoring application health, system metrics, and runtime environment details.
 Spring Security Integration: Secures sensitive Actuator endpoints to prevent unauthorized access
 
-Role-Based Access Control: Grants fine-grained access based on user roles (e.g., ADMIN, USER).
+Role-Based Access Control: Grants fine-grained access based on user roles (e.g., ADMIN, USER)
 
 Custom Endpoint Protection: Enables security customization for specific Actuator endpoints as needed.
 
