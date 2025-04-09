@@ -33,7 +33,7 @@ Spring Security
 
 How to Run
 
-Clone the repository:
+Clone the repository
 
 git clone https://github.com/ertugrulgaripardic/spring-boot-security-actuator.git
 
