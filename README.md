@@ -7,11 +7,8 @@ Spring Boot Actuator: Provides endpoints for monitoring application health, syst
 Spring Security Integration: Secures sensitive Actuator endpoints to prevent unauthorized access
 
 Role-Based Access Control: Grants fine-grained access based on user roles (e.g., ADMIN, USER)
-
-Custom Endpoint Protection: Enables security customization for specific Actuator endpoints as needed.
-
-Health Monitoring: Offers real-time application health checks through /actuator/health.
-
+Custom Endpoint Protection: Enables security customization for specific Actuator endpoints as needed
+Health Monitoring: Offers real-time application health checks through /actuator/health
 Metrics Tracking: Provides insights into JVM memory, garbage collection, and other performance-related data.
 
 Flexible Configuration: Configure user roles and permissions dynamically via application.properties or custom security settings.sefsfg
