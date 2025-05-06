@@ -11,7 +11,8 @@ Custom Endpoint Protection: Enables security customization for specific Actuator
 Health Monitoring: Offers real-time application health checks through /actuator/health
 Metrics Tracking: Provides insights into JVM memory, garbage collection, and other performance-related data.
 
-Flexible Configurtion: Configure user roles and permissions dynamically via application.properties or custom security settings.sefsfg
+Flexible Configurtion: Configure user roles and permissions dynamically via application.properties or custom security 
+settings.sefsfg
 Ease of Integration: Maven-based project structure ensures quick setup and dependency management.
 
 # Prerequisites
